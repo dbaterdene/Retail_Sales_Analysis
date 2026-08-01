@@ -80,13 +80,13 @@ This analysis aims to answer key business questions, including:
 ```text
 Retail-Sales-Analysis/
 │
-├── data/
+├── Data/
 │   └── Superstore.csv
 │
-├── notebooks/
+├── Python/
 │   └── Retail_Sales_Analysis.ipynb
 │
-├── images/
+├── Images/
 │
 ├── README.md
 │
@@ -97,14 +97,13 @@ Retail-Sales-Analysis/
 
 ## 📷 Sample Visualizations
 
-Add screenshots of your best charts here after uploading them to the **images** folder.
+Add screenshots of your best charts here after uploading them to the **Images** folder.
 
 Examples:
 
 * Monthly Sales Trend
-* Top Selling Products
-* Category Performance
-* Sales Distribution
+* Top 10 Selling Products
+* Total Sales by Region
 
 ---
 
